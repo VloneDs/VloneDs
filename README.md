@@ -2,7 +2,7 @@
 ## About me:
 ### 18 y.o. 
 ### just a chill guy 
-### I'm crazy about pc games, music.
+### I'm crazy about music.
 ### I am very interested in learning something new for myself, specially in the IT field.
 ### I'll be happy to hear about my mistakes and try to correct them.
 
