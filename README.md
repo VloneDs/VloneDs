@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**VloneDs/VloneDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stack:
+- Python, C++
+- ML / DL: PyTorch, NumPy, Pandas, Scikit-learn
+- Linux, Bash
+- Tools: VS Code, Jupyter Notebook,a bit VIM
 
-Here are some ideas to get you started:
+Interests:
+- Large Language Models (LLM)
+- Machine Learning & Deep Learning
+- Neural Networks
+- LLM Agents
+- Reverse Engineering
+- Linux & Systems Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Image alt](https://pin.it/17QgBPGPK)
